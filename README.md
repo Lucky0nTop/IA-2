@@ -1,6 +1,6 @@
 # Clasificación de Nódulos Pulmonares
 
-![Banner](banner.png)
+![Banner](Banner.png)
 
 ## Autores
 Jhon Anderson Vargas Gomez, Juan David Pallares Pallares
