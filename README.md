@@ -16,10 +16,9 @@ Clasificar nódulos pulmonares a partir de parches extraídos del dataset LIDC-I
 - CNN  
 - Transfer Learning  
 - Data Augmentation  
-- Normalización  
+- DNN
 - Autoencoder Anómalo  
 
 ## Enlaces
-- **Código:** enlace_a_codigo  
-- **Video:** enlace_a_video  
-- **Repositorio:** enlace_a_repositorio  
+- **Video:** https://www.youtube.com/watch?v=w0xsCpMtucI
+- **Repositorio:** https://github.com/Lucky0nTop/IA-2
